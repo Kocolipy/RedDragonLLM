@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+torch 
+transformers==4.35.2
+loralib
+sentencepiece
+bitsandbytes 
+accelerate 
+einops
