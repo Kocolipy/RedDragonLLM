@@ -41,3 +41,7 @@ curl --location 'http://127.0.0.1:4000/query' \
     "content": "<query here>"
 }'
 ```
+
+#### Sample Query with Output
+<img width="904" alt="Screenshot 2024-02-06 at 11 08 37 AM" src="https://github.com/Kocolipy/RedDragonLLM/assets/33294859/56d554bb-e564-4e38-843b-6918a6dd4d32">
+
